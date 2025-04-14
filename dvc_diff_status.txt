@@ -1,5 +1,0 @@
-Modified:
-    input_files\
-    input_files\freyberg6.rch_recharge_1.txt
-
-files summary: 1 modified
