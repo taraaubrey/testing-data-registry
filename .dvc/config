@@ -1,0 +1,4 @@
+[core]
+    remote = remote_data_store
+['remote "remote_data_store"']
+    url = ../Userstfo46e_Pythonb_dvcdata-remote
