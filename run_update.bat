@@ -1,5 +1,10 @@
+
 dvc diff --json --show-hash >> dvc_diff_status.txt
+
 dvc add input_files
+
+dvc push
+
 git add .
 git commit -m 'automated: updates to input_files (added to file)'
 git push origin master
