@@ -1,4 +1,4 @@
 [core]
-    remote = remote_data_store
-['remote "remote_data_store"']
-    url = ../Userstfo46e_Pythonb_dvcdata-remote
+    remote = data_remote
+['remote "data_remote"']
+    url = C:\Users\tfo46\e_Python\b_dvc\data-remote
